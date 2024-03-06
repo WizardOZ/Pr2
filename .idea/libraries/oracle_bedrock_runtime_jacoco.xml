@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="oracle.bedrock.runtime.jacoco" type="repository">
+    <properties maven-id="com.oracle.bedrock:bedrock-runtime-jacoco:5.1.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/bedrock/bedrock-runtime-jacoco/5.1.6/bedrock-runtime-jacoco-5.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/bedrock/bedrock-runtime/5.1.6/bedrock-runtime-5.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/bedrock/bedrock-core/5.1.6/bedrock-core-5.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jakarta.el/3.0.4/jakarta.el-3.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.20.1/mockito-core-2.20.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.8.13/byte-buddy-1.8.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.8.13/byte-buddy-agent-1.8.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.6/objenesis-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.agent/0.8.2/org.jacoco.agent-0.8.2-runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
